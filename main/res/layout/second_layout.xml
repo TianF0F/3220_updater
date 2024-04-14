@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="6dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <Button
+        android:id="@+id/button_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="返回起始页"
+        android:translationY="666dp" />
+
+    <Button
+        android:id="@+id/button_41"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ip地址查看"
+        android:translationY="555dp" />
+
+
+
+</LinearLayout>
